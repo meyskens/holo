@@ -8,3 +8,6 @@ This repo conains my attempt(s) to recreate holo gliter in JS and CSS. It only w
 shift the colors as you rotate it just as you're secretly doing with your holo nailpolishes all day.
 
 Suggestions, PRs and all other things (especially Menchie and Zyler hugs) are welcome!
+
+
+[Live Demo](http://holo.eyskens.me/example.html)
